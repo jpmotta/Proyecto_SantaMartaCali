@@ -1,0 +1,78 @@
+.navbar {
+padding: 0%;
+}
+
+.navbar .nav-item .nav-link{    /* Stilo letras del menu*/
+    color:#ffffff;
+    font-family: 'Almarai', sans-serif;
+    font-size: 13px;
+    padding: 0px;
+    padding-left: 20px;
+    padding-top: 5px;
+   }
+
+.Titulo1 h2 {   /* Estilo Titulo Parroquia*/
+    
+    font-family: 'Quattrocento', serif;
+    font-size: 50px;
+    text-align: center;
+    color: #c0392b;
+    font-weight: bold;
+    padding: 0px;
+
+}
+
+#Titulo2{
+    font-family:'Almarai', sans-serif;
+    font-size: 20px;
+    text-align: Center;
+    font-weight: bold;
+    padding-top: 7%;
+
+}
+
+ 
+.container .row .card1{
+   padding-top: 1%;
+   padding-left: 3.5%;
+}
+
+.card-header{
+    padding: 0px;
+}
+
+.card-header .encabezado1 h4{
+margin-top: 3px;
+text-align: right;
+font-size: 11px;
+font-family: 'Almarai', sans-serif;
+padding-right: 20px;
+}
+
+
+
+.row_Encabezado .Imagen_Virgen {
+ margin-top:10px;
+ position: relative;
+}
+
+.row_Encabezado .Titulo1{
+    padding: 0px;
+    position: absolute;
+    left: 200px;
+    color: aliceblue;
+    }
+
+.card-footer{
+    text-align: center;
+    padding:0px;
+    font-size: 10px;
+}
+
+
+#SubMenuCatequismo{
+    position: relative;
+    padding-left: 50px;
+    font-size: 13.5px;
+
+ } 
